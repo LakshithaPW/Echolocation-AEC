@@ -2,7 +2,7 @@
 This is the project folder for the journal articel "Active head rolls enhance sonar-based auditory localization performance"
 ## Table of contents
 * [Introduction](#introduction)
-* [Learning](#description)
+* [Description](#description)
 * [Setup](#setup)
 * [Software](#software)
 * [Acknowledgements](#acknowledgements)
